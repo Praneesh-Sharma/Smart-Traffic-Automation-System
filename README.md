@@ -1,4 +1,4 @@
-# vehicle-count# Real-Time Traffic Analysis
+# Real-Time Traffic Analysis
 
 ## Overview
 This project aims to optimize traffic management using machine learning techniques. It incorporates real-time vehicle detection, counting, emergency vehicle identification, and adaptive traffic light control. By leveraging deep learning models and IoT-enabled sensors, this system addresses challenges in urban traffic congestion and emergency response efficiency.
